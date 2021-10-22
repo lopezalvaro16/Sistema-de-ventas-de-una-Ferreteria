@@ -1,0 +1,40 @@
+C:\Users\Ivan-Notebook\Documents\Visual Studio 2017\Projects\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\bin\Debug\SistemaDeVentasFerreteria.exe.config
+C:\Users\Ivan-Notebook\Documents\Visual Studio 2017\Projects\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\bin\Debug\SistemaDeVentasFerreteria.exe
+C:\Users\Ivan-Notebook\Documents\Visual Studio 2017\Projects\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\bin\Debug\SistemaDeVentasFerreteria.pdb
+C:\Users\Ivan-Notebook\Documents\Visual Studio 2017\Projects\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.csprojResolveAssemblyReference.cache
+C:\Users\Ivan-Notebook\Documents\Visual Studio 2017\Projects\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.Form1.resources
+C:\Users\Ivan-Notebook\Documents\Visual Studio 2017\Projects\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.Properties.Resources.resources
+C:\Users\Ivan-Notebook\Documents\Visual Studio 2017\Projects\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.csproj.GenerateResource.Cache
+C:\Users\Ivan-Notebook\Documents\Visual Studio 2017\Projects\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.exe
+C:\Users\Ivan-Notebook\Documents\Visual Studio 2017\Projects\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.pdb
+C:\Users\Ivan-Notebook\Documents\Visual Studio 2017\Projects\Windows Forms\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\bin\Debug\SistemaDeVentasFerreteria.exe.config
+C:\Users\Ivan-Notebook\Documents\Visual Studio 2017\Projects\Windows Forms\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\bin\Debug\SistemaDeVentasFerreteria.exe
+C:\Users\Ivan-Notebook\Documents\Visual Studio 2017\Projects\Windows Forms\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\bin\Debug\SistemaDeVentasFerreteria.pdb
+C:\Users\Ivan-Notebook\Documents\Visual Studio 2017\Projects\Windows Forms\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.csprojResolveAssemblyReference.cache
+C:\Users\Ivan-Notebook\Documents\Visual Studio 2017\Projects\Windows Forms\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.Form1.resources
+C:\Users\Ivan-Notebook\Documents\Visual Studio 2017\Projects\Windows Forms\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.Properties.Resources.resources
+C:\Users\Ivan-Notebook\Documents\Visual Studio 2017\Projects\Windows Forms\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.csproj.GenerateResource.Cache
+C:\Users\Ivan-Notebook\Documents\Visual Studio 2017\Projects\Windows Forms\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.exe
+C:\Users\Ivan-Notebook\Documents\Visual Studio 2017\Projects\Windows Forms\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.pdb
+C:\Users\alvar\Downloads\Ferreteria\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\bin\Debug\SistemaDeVentasFerreteria.exe.config
+C:\Users\alvar\Downloads\Ferreteria\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\bin\Debug\SistemaDeVentasFerreteria.exe
+C:\Users\alvar\Downloads\Ferreteria\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\bin\Debug\SistemaDeVentasFerreteria.pdb
+C:\Users\alvar\Downloads\Ferreteria\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.csproj.AssemblyReference.cache
+C:\Users\alvar\Downloads\Ferreteria\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.Form1.resources
+C:\Users\alvar\Downloads\Ferreteria\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.Properties.Resources.resources
+C:\Users\alvar\Downloads\Ferreteria\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.csproj.GenerateResource.cache
+C:\Users\alvar\Downloads\Ferreteria\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Downloads\Ferreteria\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.exe
+C:\Users\alvar\Downloads\Ferreteria\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.pdb
+C:\Users\alvar\Downloads\Ferreteria\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.Form2.resources
+C:\Users\Alvaro\Downloads\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\bin\Debug\SistemaDeVentasFerreteria.exe.config
+C:\Users\Alvaro\Downloads\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\bin\Debug\SistemaDeVentasFerreteria.exe
+C:\Users\Alvaro\Downloads\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\bin\Debug\SistemaDeVentasFerreteria.pdb
+C:\Users\Alvaro\Downloads\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.csproj.AssemblyReference.cache
+C:\Users\Alvaro\Downloads\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.Form1.resources
+C:\Users\Alvaro\Downloads\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.Form2.resources
+C:\Users\Alvaro\Downloads\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.Properties.Resources.resources
+C:\Users\Alvaro\Downloads\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.csproj.GenerateResource.cache
+C:\Users\Alvaro\Downloads\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro\Downloads\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.exe
+C:\Users\Alvaro\Downloads\SistemaDeVentasFerreteria\SistemaDeVentasFerreteria\obj\Debug\SistemaDeVentasFerreteria.pdb
